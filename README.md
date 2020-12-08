@@ -1,7 +1,7 @@
-### Hey, my name is Jordan or I go by the alias Solar.👋
+### 👋 Hey, my name is Jordan or I go by the alias Solar.
 
-Age - 21
-School - University of Central Florida 🎓
+🎓 School - University of Central Florida
+### Age - 21
 
 ### 🔭 I’m currently working on:
     - COVID 19 Tracker (C#)
