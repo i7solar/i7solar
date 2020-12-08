@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hey, my name is Jordan or I go by the alias Solar.👋
 
-<!--
-**i7solar/i7solar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Age - 21
+School - University of Central Florida 🎓
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
+    - COVID 19 Tracker (C#)
+    - Website Monitors (Java)
+    - Packet Sniffer (C)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning:
+    - More C#!
+    - Java
+    - React
+    - GoLang
+    
+### 🤔 I’m looking for help with:
+    - n/a
+
+### 📫 How to reach me:
+    - Twitter
+    - Email: i7solar@hotmail.com for general inquires.
+
+### 😄 Pronouns:
+    - he/him
+
