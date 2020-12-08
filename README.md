@@ -23,5 +23,3 @@
 
 ### 😄 Pronouns:
     - he/him
-
-![i7solar's github stats](https://github-readme-stats.vercel.app/api?username=i7solar&theme=radical&count_private=true)
