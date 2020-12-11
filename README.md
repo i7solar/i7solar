@@ -24,4 +24,4 @@
 ### 😄 Pronouns:
     - he/him
 
-![Solar's github stats](https://github-readme-stats.vercel.app/api?username=i7solar&count_private=true)
+![Jordan's Github Stats](https://github-readme-stats.vercel.app/api?username=i7solar&count_private=true&theme=dracula)
