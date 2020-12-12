@@ -5,17 +5,19 @@
 
 ### 🔭 I’m currently working on:
     - COVID 19 Tracker (C#)
-    - Website Monitors (Java)
-    - Packet Sniffer (C)
+    - Website Monitors (C#)
+    - Automation Bots (C#, Java)
+    - Discord Montiors (node.Js)
 
 ### 🌱 I’m currently learning:
     - More C#!
     - Java
-    - React
+    - React JS
     - GoLang
     
 ### 🤔 I’m looking for help with:
-    - n/a
+    - Automation (New intuituve ways to create requests)
+    - Javascript (Reversing anti-bots)
 
 ### 📫 How to reach me:
     - Twitter
