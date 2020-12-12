@@ -16,8 +16,8 @@
     - GoLang
     
 ### 🤔 I’m looking for help with:
-    - Automation (New intuituve ways to create requests)
-    - Javascript (Reversing anti-bots)
+    - Automation (New intuituve ways)
+    - Javascript (Reverse Engineering)
 
 ### 📫 How to reach me:
     - Twitter
