@@ -18,11 +18,8 @@
 ### 🤔 I’m looking for help with:
     - Automation (New intuituve ways)
     - Javascript (Reverse Engineering)
-
-### 📫 How to reach me:
-    - Twitter
-    - Email: i7solar@hotmail.com for general inquires.
-
+    - React JS (Websites)
+    
 ### 😄 Pronouns:
     - he/him
 
