@@ -19,6 +19,7 @@
     - Automation (New intuituve ways)
     - Javascript (Reverse Engineering)
     - Backend (Python)
+    - APIs (C#)
     
 ### 😄 Pronouns:
     - he/him
