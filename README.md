@@ -10,15 +10,15 @@
     - Discord Montiors (node.Js)
 
 ### 🌱 I’m currently learning:
-    - More C#!
+    - More C#
+    - Python
     - Java
-    - React JS
     - GoLang
     
 ### 🤔 I’m looking for help with:
     - Automation (New intuituve ways)
     - Javascript (Reverse Engineering)
-    - React JS (Websites)
+    - Backend (Python)
     
 ### 😄 Pronouns:
     - he/him
