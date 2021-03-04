@@ -4,10 +4,11 @@
 ### Age - 21
 
 ### 🔭 I’m currently working on:
-    - COVID 19 Tracker (C#)
-    - Website Monitors (C#)
-    - Automation Bots (C#, Java)
-    - Discord Montiors (node.Js)
+    - Website Monitors (C#, Python)
+    - Automation Bots (C#)
+        I am reversing most of the scripts in JS into Python and using them as .dll files.
+    - Discord Bots (node.JS)
+    - Web Scraping Programs (C#, Python)
 
 ### 🌱 I’m currently learning:
     - More C#
@@ -18,10 +19,10 @@
 ### 🤔 I’m looking for help with:
     - Automation (New intuituve ways)
     - Javascript (Reverse Engineering)
-    - Backend (Python)
+    - Backend (Python, C#)
     - APIs (C#)
     
 ### 😄 Pronouns:
-    - he/him
+    - The GOAT.
 
 ![Jordan's Github Stats](https://github-readme-stats.vercel.app/api?username=i7solar&count_private=true&theme=dracula)
