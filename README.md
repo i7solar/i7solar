@@ -6,7 +6,6 @@
 ### 🔭 I’m currently working on:
     - Website Monitors (C#, Python)
     - Automation Bots (C#)
-        I am reversing most of the scripts in JS into Python and using them as .dll files.
     - Discord Bots (node.JS)
     - Web Scraping Programs (C#, Python)
 
