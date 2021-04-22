@@ -12,6 +12,5 @@
     - New frameworks and better design patters in C#.
     - GO, I am focused on creating it a main language in my arsenal. 
     
-    My goal is to allow code to change individuals lives and create a better one for myself.
 
-![Jordan's Github Stats](https://github-readme-stats.vercel.app/api?username=i7solar&count_private=true&theme=dracula)
+!(https://github-readme-stats.vercel.app/api?username=i7solar&count_private=true&theme=dracula)
