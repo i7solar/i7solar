@@ -1,6 +1,6 @@
 ### 👋 Hey, my name is Jordan or I go by the alias most know me by: Solar.
 
-🎓 School - University Student - Junior
+🎓 University Student - Junior
 
 ### Age - 21
 
