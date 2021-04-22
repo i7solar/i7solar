@@ -14,7 +14,7 @@
 ### 🤔 I’m looking for help with:
     - Automation (New intuituve ways)
     - Javascript (Reverse Engineering)
-    - Backend (Python, C#)
+    - Backend (GO, C#)
     - APIs (C#, GO)
     
 ### 😄 Pronouns:
