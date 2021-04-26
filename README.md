@@ -10,6 +10,6 @@
 
 ### 🌱 I’m currently learning:
     - New frameworks and better design patters in C#.
-    - GO, I am focused on creating it a main language in my arsenal. 
+    - GO, I am focused on making it a main language in my arsenal. 
     
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=i7solar&count_private=true&theme=dracula)
