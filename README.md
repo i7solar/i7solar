@@ -1,4 +1,4 @@
-### 👋 Hey, my name is Jordan or I go by the alias most know me by: Solar.
+### 👋 Hey, my name is Solar.
 
 🎓 University Student - Junior
 
