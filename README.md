@@ -5,7 +5,7 @@
 ### Age - 21
 
 ### 🔭 I’m currently working on:
-    - SolarSystems, a suite of e-commerce request-based automation solutions housed in one core software application. (GO, Python)
+    - SolarSystems, a suite of e-commerce request-based automation solutions housed in one core software application. (GO)
     - Personal Projects in C#, GO, Python, or C.
 
 ### 🌱 I’m currently learning:
