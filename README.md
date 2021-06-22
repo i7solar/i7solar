@@ -1,8 +1,6 @@
-### 👋 Hey, my name is Solar.
+### 👋 Sup, name is Solar.
 
-🎓 University Student - Junior
 
-### Age - 22
 
 ### 🔭 I’m currently working on:
     - SolarSystems, a suite of e-commerce request-based automation solutions housed in one core software application. (GO)
