@@ -4,7 +4,7 @@
 
 ### 🔭 I’m currently working on:
     - SolarSystems, a suite of e-commerce request-based automation solutions housed in one core software application. (GO)
-    - Personal Projects in GO, Python, C#, or C.
+    - Personal Projects in GO, C#, or C.
 
 ### 🌱 I’m currently learning:
     - Advanced GO design patterns/implementations. 
