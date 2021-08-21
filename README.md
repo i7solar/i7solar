@@ -1,5 +1,4 @@
-### 👋 Sup, name is Solar.
-
+### ☝️ Sup, name is Solar.
 
 
 ### 🔭 I’m currently working on:
@@ -7,7 +6,7 @@
     - Personal Projects in GO, C#, or C.
 
 ### 🌱 I’m currently learning:
-    - Advanced GO design patterns/implementations. 
+    - Advanced GO & C# design patterns/implementations. 
     
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=i7solar&count_private=true&theme=dracula)
 
