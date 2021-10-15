@@ -1,12 +1,8 @@
-### ☝️ Sup, name is Solar.
+### 🤘 sup, name is Solar.
 
-
-### 🔭 I’m currently working on:
-    - SolarSystems, a suite of e-commerce request-based automation solutions housed in one core software application. (GO)
-    - Personal Projects in GO, C#, or C.
-
-### 🌱 I’m currently learning:
-    - Advanced GO & C# design patterns/implementations. 
+### 🔭 What am I currently working on:
+    - Publically, I am working on SolarSystems, a suite of e-commerce request-based automation program. (Go)
+    - Other personal projects that involve reversing antibots or bypassing security in Go, C#, or C.
     
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=i7solar&count_private=true&theme=dracula)
 
