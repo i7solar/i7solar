@@ -1,3 +1,1 @@
-### 🦇💻
-
-Go && C#
+Coding in Go and C#.
