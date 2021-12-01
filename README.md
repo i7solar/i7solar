@@ -1,1 +1,2 @@
-Coding in Go and C#.
+Go
+.NET
