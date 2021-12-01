@@ -1,2 +1,1 @@
-#Go
-#.NET
+#go #csharp
